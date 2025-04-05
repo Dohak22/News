@@ -1,0 +1,6 @@
+outs:
+- md5: aaf54560d4e9fef5e541a96511de955f.dir
+  size: 2049725
+  nfiles: 282
+  hash: md5
+  path: mlflows
