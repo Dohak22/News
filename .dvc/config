@@ -1,0 +1,8 @@
+[core]
+    remote = gdrive_s
+['remote "gdrive"']
+    url = ../gdrive:/1X41YKgZs1nqOIbOnOCe-UwS5GgjxV5KE
+['remote "gdrive_s"']
+    url = gdrive://1X41YKgZs1nqOIbOnOCe-UwS5GgjxV5KE
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:\Users\Doha\OneDrive\Documents\M2\Dc khodor\start\dvc.json
